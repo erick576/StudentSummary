@@ -1,8 +1,9 @@
 Name: Eric Kwok
-School: York University
+School: York
 Number Of Courses: 5
-Course 1: EECS2030
+Course 1: EECS2200
 Course 2: EECS2021
-Course 3: EECS2200
+Course 3: EECS2030
 Course 4: MATH2015
 Course 5: PHYS2020
+GPA: 8.400000

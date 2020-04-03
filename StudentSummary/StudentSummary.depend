@@ -1,5 +1,6 @@
 # depslib dependency file v1.0
-1571681557 source:c:\users\ericn\documents\github\studentsummary\studentsummary\main.c
+1585885274 source:c:\users\ericn\documents\github\studentsummary\studentsummary\main.c
 	<stdio.h>
 	<stdlib.h>
+	<string.h>
 
